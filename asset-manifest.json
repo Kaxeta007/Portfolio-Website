@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.136e4565.css",
+    "main.js": "/Portfolio-Website/static/js/main.2971cff7.js",
+    "static/media/cropped_image.png": "/Portfolio-Website/static/media/cropped_image.ef5ab6daa77f5b47e2d1.png",
+    "static/media/weatherWebsite.png": "/Portfolio-Website/static/media/weatherWebsite.874243c663f46a779477.png",
+    "static/media/movie-website.png": "/Portfolio-Website/static/media/movie-website.dae742ee44278bfaa63f.png",
+    "static/media/jpg": "/Portfolio-Website/static/media/a2fe21da9ce7d1698f5b48cdb506c853.f46e101b93a877849f42.jpg",
+    "static/media/personal-website.png": "/Portfolio-Website/static/media/personal-website.39dfdecbafc45b4d008f.png",
+    "static/media/nike-web.png": "/Portfolio-Website/static/media/nike-web.b481fc660168eb2531c6.png",
+    "static/media/banner-bg.png": "/Portfolio-Website/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/CentraNo2-Bold.ttf": "/Portfolio-Website/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Portfolio-Website/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Portfolio-Website/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/Portfolio-Website/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/expense-tracker-website.png": "/Portfolio-Website/static/media/expense-tracker-website.8103c6dd5d60e854933d.png",
+    "static/media/revicons.eot": "/Portfolio-Website/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Portfolio-Website/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Portfolio-Website/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/Portfolio-Website/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/logo.svg": "/Portfolio-Website/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "index.html": "/Portfolio-Website/index.html",
+    "static/media/nav-icon1.svg": "/Portfolio-Website/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/Portfolio-Website/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.136e4565.css.map": "/Portfolio-Website/static/css/main.136e4565.css.map",
+    "main.2971cff7.js.map": "/Portfolio-Website/static/js/main.2971cff7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.136e4565.css",
+    "static/js/main.2971cff7.js"
+  ]
+}
